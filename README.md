@@ -21,6 +21,7 @@ Run Training: Execute the Q-learning training process to learn optimal policies.
 Evaluate Policies: observe the agent's behavior at training intervals.
 
 **KeyBinds**
+
 "space" increments the episode number and puts the agent at a random start state
 
 "c" puts the agent at a random start state and maintains the episode number
