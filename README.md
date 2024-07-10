@@ -16,7 +16,7 @@ This project demonstrates the implementation of a Q-learning algorithm to solve 
 
 **How to Use**
 - Setup the Grid: Define the grid size, obstacle positions, and reward table.
-- Configure Q-Learning Parameters: Set the learning rate (alpha), discount factor (gamma), and exploration rate (epsilon) in the QLearningSolver script.
+- Configure Q-Learning Parameters: Set the learning rate (alpha), discount factor (gamma), and exploration rate (epsilon) in the QLearningMain script.
 - Run Training: Execute the Q-learning training process to learn optimal policies.
 - Evaluate Policies: observe the agent's behavior at training intervals.
 
