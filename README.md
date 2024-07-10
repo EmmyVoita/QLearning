@@ -10,15 +10,15 @@ This project demonstrates the implementation of a Q-learning algorithm to solve 
 - Policy Extraction: Extracts optimal policies at regular intervals for evaluation and analysis.
 
 **Components**
-Agent: Controls the agent's movement within the grid.
-QLearningSolver: Handles the Q-learning algorithm, including state transitions, rewards, and Q-value updates.
-MDP: Defines the Markov Decision Process (MDP) with transition probabilities and rewards.
+- Agent: Controls the agent's movement within the grid.
+- QLearningSolver: Handles the Q-learning algorithm, including state transitions, rewards, and Q-value updates.
+- MDP: Defines the Markov Decision Process (MDP) with transition probabilities and rewards.
 
 **How to Use**
-Setup the Grid: Define the grid size, obstacle positions, and reward table.
-Configure Q-Learning Parameters: Set the learning rate (alpha), discount factor (gamma), and exploration rate (epsilon) in the QLearningSolver script.
-Run Training: Execute the Q-learning training process to learn optimal policies.
-Evaluate Policies: observe the agent's behavior at training intervals.
+- Setup the Grid: Define the grid size, obstacle positions, and reward table.
+- Configure Q-Learning Parameters: Set the learning rate (alpha), discount factor (gamma), and exploration rate (epsilon) in the QLearningSolver script.
+- Run Training: Execute the Q-learning training process to learn optimal policies.
+- Evaluate Policies: observe the agent's behavior at training intervals.
 
 **KeyBinds**
 
