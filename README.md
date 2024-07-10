@@ -22,7 +22,9 @@ Evaluate Policies: observe the agent's behavior at training intervals.
 
 **KeyBinds**
 "space" increments the episode number and puts the agent at a random start state
+
 "c" puts the agent at a random start state and maintains the episode number
+
 "x" puts the agent at a defined start state (defined in the Unity editor) and maintains the episode number
 
 
